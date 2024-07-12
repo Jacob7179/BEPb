@@ -15,7 +15,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jacob7179;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;C,+HTML,+CSS,+MySQL,+PhpMyAdmin,+JavaScript,+PHP,+Python,+Cpp+and+Java;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jacob7179;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;C,+HTML,+CSS,+MySQL,+PhpMyAdmin,+JavaScript,+PHP,+Python,+Cpp;and+Java;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 #### Thanks for visiting :heart:
 
